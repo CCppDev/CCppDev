@@ -10,3 +10,6 @@
 [submodule "CPP"]
 	path = CPP
 	url = git@github.com:CCppDev/CPP.git
+[submodule "STL"]
+	path = STL
+	url = git@github.com:CCppDev/STL.git
