@@ -4,3 +4,6 @@
 [submodule "C"]
 	path = C
 	url = git@github.com:CCppDev/C.git
+[submodule "CDeep"]
+	path = CDeep
+	url = git@github.com:CCppDev/CDeep.git
