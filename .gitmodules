@@ -1,0 +1,3 @@
+[submodule "ModernCpp"]
+	path = ModernCpp
+	url = git@github.com:CCppDev/ModernCpp.git
