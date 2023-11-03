@@ -13,3 +13,6 @@
 [submodule "STL"]
 	path = STL
 	url = git@github.com:CCppDev/STL.git
+[submodule "DataStructure"]
+	path = DataStructure
+	url = git@github.com:CCppDev/DataStructure.git
