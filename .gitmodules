@@ -16,3 +16,6 @@
 [submodule "DataStructure"]
 	path = DataStructure
 	url = git@github.com:CCppDev/DataStructure.git
+[submodule "Extension"]
+	path = Extension
+	url = git@github.com:CCppDev/Extension.git
